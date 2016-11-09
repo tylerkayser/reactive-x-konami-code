@@ -1,7 +1,7 @@
 {
-  "name": "konami_code",
+  "name": "reactive-x-konami-code",
   "version": "1.0.0",
-  "description": "",
+  "description": "ReactiveX Konami Code Example",
   "main": "index.js",
   "dependencies": {
     "rx": "^4.1.0"
